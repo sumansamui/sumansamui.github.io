@@ -1,22 +1,23 @@
-# Run 'bundle exec jekyll serve' again if you change this file.
+title: "Home"
+author: "Suman Samui"
+description: "These pages contain information about my work, publications and software."
 
-# Site settings
-title: Home
-author: Suman Samui
-# email: ssamui.ece@nitdgp.ac.in
-description: >
-  These pages contain information about my work, publications and software.
+# Use Minimal Mistakes theme (GitHub Pages–compatible version)
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
 
-# These stop it being portable.  Better to leave it at github.
-# baseurl: "~pgarner"
-# url: "http://idiap.ch"
-
-links:
+# Social & academic links for author sidebar
+author:
+  name: "Suman Samui"
+  avatar: "/assets/images/profile.jpg"   # optional
+  bio: "Faculty Member, NIT Durgapur | Embedded AI | TinyML | Speech Processing"
+  location: "West Bengal, India"
+  links:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/sumansamui"
     - label: "ORCID"
-      icon: "ai ai-orcid"   # ORCID icon (from Academicons)
+      icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0000-0000-0000"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
@@ -25,35 +26,26 @@ links:
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/"
 
-# Build settings
-markdown: kramdown
-theme: minima
+# Navigation menu (must be in _data/navigation.yml, NOT here)
+# header_pages does NOT work in Minimal Mistakes
 
-# Minima date format; refer to http://shopify.github.io/liquid/filters/date/
-minima:
-  date_format: "%b %-d, %Y"
-
-# Specific pages that should appear in the header; order is respected.
-header_pages:
- - teaching.md
- - positions.md
- - projects.md
- - talks.md
- - appendices.md
- - blog.md
-
-# Collections of things.
-# Flatten the publications so the css path works with baseurls
 collections:
- pubs:
-   permalink: /:name
-   output: true
- appendices:
-   output: true
- ssp-course:
-   output: true
+  pubs:
+    permalink: /:name/
+    output: true
+  appendices:
+    output: true
+  ssp-course:
+    output: true
 
-# Exclude from processing.
+markdown: kramdown
+
+# Plugins required by Minimal Mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+
 exclude:
- - Gemfile
- - Gemfile.lock
+  - Gemfile
+  - Gemfile.lock
