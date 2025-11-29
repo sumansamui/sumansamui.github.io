@@ -23,7 +23,7 @@ minima:
 
 # Specific pages that should appear in the header; order is respected.
 header_pages:
- - group.md
+ - teachings.md
  - positions.md
  - projects.md
  - talks.md
