@@ -2,11 +2,15 @@ title: "Suman Samui"
 name: "Suman Samui"
 description: "Academic Homepage | Embedded AI | TinyML | Optimization | Speech & Biosignals"
 
-theme: minimal-mistakes-jekyll
+# ✅ GitHub Pages compatible theme
+remote_theme: "mmistakes/minimal-mistakes@latest"
 
-minimal_mistakes_skin: "default"  # options: air, contrast, neon, dark, sunrise, etc.
+# Theme skin (color palette)
+minimal_mistakes_skin: "default"   # options: air, contrast, neon, dark, sunrise, etc.
 
-# Author info
+# ----------------------------------------------------
+# Author Information
+# ----------------------------------------------------
 author:
   name: "Suman Samui"
   bio: "Faculty Member, NIT Durgapur | Embedded AI Systems | Multi-Objective Optimization | TinyML"
@@ -23,7 +27,9 @@ author:
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/"
 
+# ----------------------------------------------------
 # Navigation Menu
+# ----------------------------------------------------
 nav:
   - title: "Home"
     url: /
@@ -42,6 +48,10 @@ nav:
   - title: "CV"
     url: /cv/
 
+# ----------------------------------------------------
+# Required Plugins for Minimal Mistakes
+# ----------------------------------------------------
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
