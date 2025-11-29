@@ -2,9 +2,7 @@ title: "Suman Samui"
 name: "Suman Samui"
 description: "Academic Homepage | Embedded AI | TinyML | Optimization | Speech & Biosignals"
 
-# GitHub Pages compatible version of Minimal Mistakes
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
 minimal_mistakes_skin: "default"
 
 author:
@@ -12,34 +10,6 @@ author:
   bio: "Faculty Member, NIT Durgapur | Embedded AI Systems | Multi-Objective Optimization | TinyML"
   location: "West Bengal, India"
   email: "your-email@domain.com"
-  links:
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/sumansamui"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/"
-
-nav:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Publications"
-    url: /publications/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Projects"
-    url: /projects/
-  - title: "Travel & Blogs"
-    url: /travel/
-  - title: "Contact"
-    url: /contact/
-  - title: "CV"
-    url: /cv/
 
 plugins:
   - jekyll-include-cache

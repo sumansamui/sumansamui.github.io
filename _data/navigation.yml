@@ -1,0 +1,17 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Projects"
+    url: /projects/
+  - title: "Travel & Blogs"
+    url: /travel/
+  - title: "Contact"
+    url: /contact/
+  - title: "CV"
+    url: /cv/
