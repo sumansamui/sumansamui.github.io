@@ -1,0 +1,47 @@
+title: "Suman Samui"
+name: "Suman Samui"
+description: "Academic Homepage | Embedded AI | TinyML | Optimization | Speech & Biosignals"
+
+theme: minimal-mistakes-jekyll
+
+minimal_mistakes_skin: "default"  # options: air, contrast, neon, dark, sunrise, etc.
+
+# Author info
+author:
+  name: "Suman Samui"
+  bio: "Faculty Member, NIT Durgapur | Embedded AI Systems | Multi-Objective Optimization | TinyML"
+  location: "West Bengal, India"
+  email: "your-email@domain.com"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sumansamui"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/"
+
+# Navigation Menu
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Projects"
+    url: /projects/
+  - title: "Travel & Blogs"
+    url: /travel/
+  - title: "Contact"
+    url: /contact/
+  - title: "CV"
+    url: /cv/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
