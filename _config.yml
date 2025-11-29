@@ -1,17 +1,23 @@
 title: "Suman Samui"
 name: "Suman Samui"
-description: "Academic Homepage | Embedded AI | TinyML | Optimization | Speech & Biosignals"remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+description: "Academic Homepage | Embedded AI | TinyML | Optimization | Speech & Biosignals"
+
+# GitHub Pages compatible theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
+# -----------------------------------------
+# Author Information
+# -----------------------------------------
 author:
   name: "Suman Samui"
   bio: "Faculty Member, NIT Durgapur | Embedded AI Systems | Multi-Objective Optimization | TinyML"
   location: "West Bengal, India"
   email: "your-email@domain.com"
-contact/
-  - title: "CV"
-    url: /cv/
 
+# -----------------------------------------
+# Plugins required for Minimal Mistakes
+# -----------------------------------------
 plugins:
   - jekyll-include-cache
   - jekyll-feed
