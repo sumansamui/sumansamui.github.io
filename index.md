@@ -13,12 +13,18 @@ Hello! I’m a faculty member at [NIT Durgapur](https://nitdgp.ac.in/), where I 
 Explore my peer-reviewed work: [Reviewed publications](png-pubs.html). You can also access my publication record via
 [Google Scholar](https://scholar.google.com/citations?user=qqAWDd4AAAAJ&hl=en) and by [ORCID](https://orcid.org/0000-0002-3139-9646).
 
+Most work is on my[GitHub](https://github.com/sumansamui) page.
+
 # Review Activity
 I have reviewed research manuscripts for a wide range of journals and conferences in AI, signal processing, biomedical engineering, and intelligent systems.
 Below is a list of journals and conferences for which I have served as a reviewer:
 
 - IEEE Transactions on Neural Networks and Learning Systems (4)  
 - IEEE/ACM Transactions on Audio, Speech, and Language Processing (2)  
+- ICASSP – IEEE International Conference on Acoustics, Speech, and Signal Processing  
+- IJCNN – International Joint Conference on Neural Networks
+- ICPR – International Conference on Pattern Recognition
+- IAPR PReMI – International Conference on Pattern Recognition and Machine Intelligence, Springer LNCS (1)  
 - IEEE Internet of Things Journal (1)  
 - IEEE Transactions on Medical Robotics and Bionics (1)  
 - IEEE Sensors Journal (4)  
@@ -33,6 +39,7 @@ Below is a list of journals and conferences for which I have served as a reviewe
 - Journal of Bionic Engineering (1)  
 - Journal of Bionics Engineering (1)  
 - BIO Integration (1)
+
 
 
 
