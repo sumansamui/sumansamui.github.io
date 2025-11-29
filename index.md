@@ -10,7 +10,8 @@ layout: page
 
 Hello! I’m a faculty member at [NIT Durgapur](https://nitdgp.ac.in/), where I actively guide UG/PG/PhD students and teach courses in ASIC Design, FPGA Design, Machine Learning, Deep Learning, and Digital Signal Processing. My research focuses on developing machine learning models that bring computational intelligence to resource-constrained hardware platforms, especially edge devices. My application domains primarily include audio signal processing and biomedical signal analysis. Here is a short [bio](ieee-bio.html).
 
-
+Explore my peer-reviewed work: [Reviewed publications](png-pubs.html). You can also access my publication record via
+[Google Scholar](https://scholar.google.com/citations?user=qqAWDd4AAAAJ&hl=en) and by [ORCID](https://orcid.org/0000-0002-3139-9646).
 
 # Paper trail
 
