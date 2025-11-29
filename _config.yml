@@ -10,8 +10,20 @@ description: >
 # These stop it being portable.  Better to leave it at github.
 # baseurl: "~pgarner"
 # url: "http://idiap.ch"
-twitter_username: philipngarner
-github_username:  pgarner
+
+links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/sumansamui"
+    - label: "ORCID"
+      icon: "ai ai-orcid"   # ORCID icon (from Academicons)
+      url: "https://orcid.org/0000-0000-0000-0000"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/"
 
 # Build settings
 markdown: kramdown

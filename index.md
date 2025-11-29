@@ -10,8 +10,7 @@ layout: page
 
 Hello! I’m a faculty member at [NIT Durgapur](https://nitdgp.ac.in/), where I actively guide UG/PG/PhD students and teach courses in ASIC Design, FPGA Design, Machine Learning, Deep Learning, and Digital Signal Processing. My research focuses on developing machine learning models that bring computational intelligence to resource-constrained hardware platforms, especially edge devices. My application domains primarily include audio signal processing and biomedical signal analysis. Here is a short [bio](ieee-bio.html).
 
-I am a Senior Researcher at [Idiap Research
-Institute](http://www.idiap.ch/), where I lead the [Audio Inference Group](https://www.idiap.ch/en/scientific-research/audio-inference).  We work generally in artificial intelligence and particularly in speech processing on the conjunction of recognition and synthesis.  In each case, we try to focus on physiologically plausible and statistically rigorous systems.  Here is a short [bio](ieee-bio.html).
+
 
 # Paper trail
 
