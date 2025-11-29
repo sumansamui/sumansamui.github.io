@@ -8,7 +8,7 @@ layout: page
 
 ![My_photo](/assets/images/me_bw.jpg){:width="15%" border="1"}
 
-Hello! I’m a faculty member at [NIT Durgapur](https://nitdgp.ac.in/), where I actively guide UG/PG/PhD students and teach courses in ASIC Design, FPGA Design, Machine Learning, Deep Learning, and Digital Signal Processing. My research focuses on developing machine learning models that bring computational intelligence to resource-constrained hardware platforms, especially edge devices. My application domains primarily include audio signal processing and biomedical signal analysis. Here is a short [bio](ieee-bio.html).
+Hello! I’m a faculty member at [NIT Durgapur](https://nitdgp.ac.in/), where I actively guide UG/PG/PhD students and teach courses in ASIC and FPGA Design, Machine Learning, Deep Learning, and Digital Signal Processing. My research focuses on developing machine learning models that bring computational intelligence to resource-constrained hardware platforms, especially edge devices. My application domains primarily include audio signal processing and biomedical signal analysis. Here is a short [bio](ieee-bio.html).
 
 # Contact
 
