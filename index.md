@@ -13,6 +13,33 @@ Hello! I’m a faculty member at [NIT Durgapur](https://nitdgp.ac.in/), where I 
 Explore my peer-reviewed work: [Reviewed publications](png-pubs.html). You can also access my publication record via
 [Google Scholar](https://scholar.google.com/citations?user=qqAWDd4AAAAJ&hl=en) and by [ORCID](https://orcid.org/0000-0002-3139-9646).
 
+## 📝 Peer Review Activity
+
+<details>
+<summary><strong>Click to view my review contributions (33 reviews across 16 journals)</strong></summary>
+<br>
+
+I have reviewed research manuscripts for a wide range of journals and conferences in AI, signal processing, biomedical engineering, and intelligent systems. My review activity includes:
+
+- **BIO Integration** (1)
+- **Biomedical Signal Processing and Control** (1)
+- **Computers & Electrical Engineering** (2)
+- **Engineering Applications of Artificial Intelligence** (4)
+- **IEEE Access** (3)
+- **IEEE Internet of Things Journal** (1)
+- **IEEE Sensors Journal** (4)
+- **IEEE Sensors Letters** (1)
+- **IEEE Transactions on Medical Robotics and Bionics** (1)
+- **IEEE Transactions on Neural Networks and Learning Systems** (4)
+- **IEEE/ACM Transactions on Audio, Speech, and Language Processing** (2)
+- **IET Signal Processing** (3)
+- **Journal of Bionic Engineering** (1)
+- **Journal of Bionics Engineering** (1)
+- **Neurocomputing** (2)
+- **PLOS Digital Health** (2)
+
+</details>
+
 # Paper trail
 
 * My [reviewed publications](png-pubs.html). These are also indexed by
