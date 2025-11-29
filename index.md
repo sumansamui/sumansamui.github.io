@@ -15,6 +15,8 @@ Hello! I’m a faculty member at [NIT Durgapur](https://nitdgp.ac.in/), where I 
 - **Email:** ssamui.ece@nitdgp.ac.in, samuisuman@gmail.com  
 - **Office:** Department of Electronics and Communication Engineering, NIT Durgapur  
 
+# Paper trail
+
 Explore my peer-reviewed work: [Reviewed publications](png-pubs.html). You can also access my publication record via
 [Google Scholar](https://scholar.google.com/citations?user=qqAWDd4AAAAJ&hl=en) and by [ORCID](https://orcid.org/0000-0002-3139-9646).
 
@@ -53,22 +55,6 @@ Below is a list of journals and conferences for which I have served as a reviewe
 
 
 
-# Paper trail
-
-* My [reviewed publications](png-pubs.html). These are also indexed by
-[Google Scholar](http://idiap.ch/~pgarner/scholar) and by [ORCID](https://orcid.org/0000-0002-0814-1348).
-
-* A (possibly incomplete) list of [my patents](png-pats.html). They are
-mainly US, but in practice most of these began life as either GB or Japan
-patents; the US ones are just easier to reference.
-
-* Other [technical reports](png-tech.html) that are not commercial in
-confidence or published elsewhere. The list includes some MPEG submissions that
-made it into MPEG-7.
-
-# Boards
-
-I'm on the Editorial Board for [Speech Communication](https://www.journals.elsevier.com/speech-communication/editorial-board).  Until the spring of 2024 I was a Senior Area Editor for [IEEE Signal Processing Letters](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters/editorial-board).
 
 # Software
 
