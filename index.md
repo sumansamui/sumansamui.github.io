@@ -8,7 +8,7 @@ layout: page
 
 ![Mugshot](assets/mugshot.jpg){:width="15%" border="1"}
 
-Hello! I’m a faculty member at NIT Durgapur. My research focuses on designing  machine learning models for achieving computational intelligence which will be deployable on resource constrained hardware (edge device). Application areas are mainly  audio signal processing, bio medical signals signals.  My currect interest is mainly on TinyML and multi-objective optimization for speech-based AI systems. I actively guide UG/PG/PhD students and teach courses in ASIC Design, Machine Learning, Deep Learning, TinyML, and Speech Signal Processing.
+Hello! I’m a faculty member at [NIT Durgapur](https://nitdgp.ac.in/), where I actively guide UG/PG/PhD students and teach courses in ASIC Design, FPGA Design, Machine Learning, Deep Learning, and Digital Signal Processing. My research focuses on developing machine learning models that bring computational intelligence to resource-constrained hardware platforms, especially edge devices. My application domains primarily include audio signal processing and biomedical signal analysis.
 
 I am a Senior Researcher at [Idiap Research
 Institute](http://www.idiap.ch/), where I lead the [Audio Inference Group](https://www.idiap.ch/en/scientific-research/audio-inference).  We work generally in artificial intelligence and particularly in speech processing on the conjunction of recognition and synthesis.  In each case, we try to focus on physiologically plausible and statistically rigorous systems.  Here is a short [bio](ieee-bio.html).
