@@ -4,10 +4,12 @@ title: "About Me"
 permalink: /
 ---
 
-I am Suman Samui, a faculty member in the Department of Electronics and Communication Engineering, NIT Durgapur, specializing in Embedded AI, TinyML, Speech Processing, Bio-signal Analysis, and Multi-Objective Optimization. My work spans both hardware and AI, with a strong focus on designing efficient machine learning models for resource-constrained systems.
+# 👋 Hi, I'm **Suman Samui**
 
-My research explores the intersection of signal processing, machine learning, and real-time embedded hardware—with applications in neuromuscular disorder detection (EMG), speech recognition, keyword spotting, wearable AI, and intelligent sensing systems. I actively work on Neural Architecture Search (NAS), surrogate-assisted evolutionary algorithms, knowledge distillation, and edge-aware AI systems to build high-performance models suitable for microcontrollers, FPGAs, and ASICs.
+I am a faculty member in the **Department of Electronics and Communication Engineering, NIT Durgapur**, where I work at the exciting intersection of **Embedded AI, TinyML, Speech Processing, Bio-Signal Analysis**, and **Multi-Objective Optimization**. My research blends hardware and machine intelligence, with a strong emphasis on building **efficient, deployable ML models** for resource-constrained and real-time systems.
 
-I also supervise multiple undergraduate, postgraduate, and PhD projects in areas such as TinyML, Voice Agents, Biomedical Signal Analysis, FPGA-based accelerators, and AI-driven embedded systems. My teaching portfolio includes Machine Learning, TinyML, Deep Learning, Speech Signal Processing, ASIC Design using Verilog, and FPGA-based Design.
+My work focuses on extracting meaningful patterns from complex signals — from **EMG for neuromuscular disorder detection**, to **speech, audio, and environmental sensing**. I develop algorithms and architectures spanning **Neural Architecture Search (NAS)**, **surrogate-assisted evolutionary optimization**, **knowledge distillation**, and **edge-aware model compression**, enabling intelligent behavior on microcontrollers, FPGAs, and future ASICs.
 
-Beyond research and teaching, I am passionate about building practical, deployable AI systems that integrate hardware–software co-design, efficient optimization, and real-world constraints—making AI more accessible at the edge.
+I actively supervise **UG, PG, and PhD research** across a wide spectrum of edge-AI applications, including **TinyML systems, voice-based agents, biomedical signal modeling, FPGA accelerators**, and **embedded ML solutions**. I also teach courses in **Machine Learning, Deep Learning, TinyML, Speech Signal Processing, ASIC Design using Verilog**, and **FPGA-based System Design**.
+
+Beyond research and teaching, I am passionate about creating **real, deployable AI systems** — technologies that combine hardware–software co-design, optimization, and sensing intelligence to bring meaningful AI capabilities to the edge, where they matter the most.
