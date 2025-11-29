@@ -1,24 +1,47 @@
-title: "Suman Samui"
-name: "Suman Samui"
-description: "Academic Homepage | Embedded AI | TinyML | Optimization | Speech & Biosignals"
+# Run 'bundle exec jekyll serve' again if you change this file.
 
-# GitHub Pages compatible theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default"
+# Site settings
+title: Home
+author: Phil Garner
+# email: Phil.Garner@idiap.ch
+description: >
+  These pages contain information about my work, publications and software.
 
-# -----------------------------------------
-# Author Information
-# -----------------------------------------
-author:
-  name: "Suman Samui"
-  bio: "Faculty Member, NIT Durgapur | Embedded AI Systems | Multi-Objective Optimization | TinyML"
-  location: "West Bengal, India"
-  email: "your-email@domain.com"
+# These stop it being portable.  Better to leave it at github.
+# baseurl: "~pgarner"
+# url: "http://idiap.ch"
+twitter_username: philipngarner
+github_username:  pgarner
 
-# -----------------------------------------
-# Plugins required for Minimal Mistakes
-# -----------------------------------------
-plugins:
-  - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-seo-tag
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Minima date format; refer to http://shopify.github.io/liquid/filters/date/
+minima:
+  date_format: "%b %-d, %Y"
+
+# Specific pages that should appear in the header; order is respected.
+header_pages:
+ - group.md
+ - positions.md
+ - projects.md
+ - talks.md
+ - appendices.md
+ - blog.md
+
+# Collections of things.
+# Flatten the publications so the css path works with baseurls
+collections:
+ pubs:
+   permalink: /:name
+   output: true
+ appendices:
+   output: true
+ ssp-course:
+   output: true
+
+# Exclude from processing.
+exclude:
+ - Gemfile
+ - Gemfile.lock
