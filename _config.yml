@@ -1,50 +1,43 @@
+# Site settings
 title: "Home"
 author: "Suman Samui"
-description: "These pages contain information about my work, publications and software."
+description: "These pages contain information about my work, publications, and software."
 
-# Use Minimal Mistakes theme (GitHub Pages–compatible version)
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default"
+# Built-in social usernames
+github_username: sumansamui
 
-# Social & academic links for author sidebar
-author:
-  name: "Suman Samui"
-  avatar: "/assets/images/profile.jpg"   # optional
-  bio: "Faculty Member, NIT Durgapur | Embedded AI | TinyML | Speech Processing"
-  location: "West Bengal, India"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/sumansamui"
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0000-0000-0000"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/"
+# Extra social links (ORCID + LinkedIn)
+social_links:
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/YOUR-LINKEDIN-ID" }
+  - { platform: orcid,    user_url: "https://orcid.org/YOUR-ORCID-ID" }
 
-# Navigation menu (must be in _data/navigation.yml, NOT here)
-# header_pages does NOT work in Minimal Mistakes
+# Jekyll theme
+theme: minima
 
+# Minima date format
+minima:
+  date_format: "%b %-d, %Y"
+
+# Pages
+header_pages:
+  - teaching.md
+  - positions.md
+  - projects.md
+  - talks.md
+  - appendices.md
+  - blog.md
+
+# Collections
 collections:
   pubs:
-    permalink: /:name/
     output: true
+    permalink: /:name/
   appendices:
     output: true
   ssp-course:
     output: true
 
 markdown: kramdown
-
-# Plugins required by Minimal Mistakes
-plugins:
-  - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-seo-tag
 
 exclude:
   - Gemfile
