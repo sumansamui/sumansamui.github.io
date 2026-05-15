@@ -48,45 +48,12 @@ Below is a list of journals and conferences for which I have served as a reviewe
 
 - **Email:** ssamui.ece@nitdgp.ac.in  
 - **Office:** Department of Electronics and Communication Engineering, NIT Durgapur  
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-ID  
-- **ORCID:** https://orcid.org/YOUR-ID  
-- **Google Scholar:** https://scholar.google.com/YOUR-ID  
-- **GitHub:** https://github.com/sumansamui
+
 
 
 
 
 # Software
 
-Most work is on my [GitHub](http://github.com/pgarner) page.
+Most work is on my [GitHub](https://github.com/sumansamui) page.
 
-* I spent some time trying to find a sustainable way of maintaining software for the group. [BuSLR](https://github.com/idiap/buslr) was a failed attempt, but does contain some useful conda recipes.  Also promising was [homebrew](https://docs.brew.sh/), for which I made a [tap](https://github.com/pgarner/homebrew-tap).  Finally Ewan came along with a solution based on [modules](https://lmod.readthedocs.io/en/latest/index.html) and [spack](https://spack.io/).
-* [SSP](https://github.com/idiap/ssp) is a signal processing library in python.
-It contains, amongst other things, a feature extractor and [continuous pitch estimator](http://publications.idiap.ch/index.php/publications/show/2451). [libssp](https://github.com/idiap/libssp) duplicates some functionality in a C++ library.
-* [ISS](https://github.com/idiap/iss) is/was a framework for building and
-evaluating ASR and TTS models.  Based around HTS it's quite old.
-* I wrote and (infrequently) maintain [Tracter](https://github.com/idiap/tracter), a data-flow framework that
-formed the feature acquisition mechanism of [Juicer](https://github.com/idiap/juicer).  Tracter wraps several other
-packages, including libssp.
-
-Software ages; Juicer and ISS were effectively replaced by [Kaldi](http://kaldi-asr.org).  In my team we tend to use [pytorch](https://pytorch.org/)-based toolkits now.
-
-
-# Teaching
-
-Between May 2019 and July 2023, [Ina Kodrasi](https://www.idiap.ch/~ikodrasi/) and I taught the course "Fundamentals of Statistics for AI" for
-[UniDistance](https://unidistance.ch/en/mathematics-and-computer-science).  The course was originally designed with
-[David Ginsbourger](http://www.ginsbourger.ch/).
-
-Via the [LIDIAP lab](https://www.epfl.ch/labs/idiap/) I hold a [lecturer position at EPFL](https://people.epfl.ch/philip.garner).  A while ago now I
-taught a [course on Speech Signal Processing](ssp-course.html).
-
-# Contact
-
-Look at the username above and add `@idiap.ch`. It'll probably get
-here. Otherwise try the
-[Idiap contact page](http://www.idiap.ch/en/people/directory/306).
-
-# Also...
-
-I'm on [LinkedIn](http://www.linkedin.com/in/philipngarner), but have a more on/off relationship with [facebook](facebook.html) and the like.  Some are below; finding any others is left as an exercise for the user.
